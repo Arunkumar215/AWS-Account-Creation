@@ -16,8 +16,7 @@
 Include the commands used in the Experiment.
 
 ## OUTPUT
-### REG NUMBER:212223040213
-### NAME:SUNILKUMAR P.B.
+
 ![image](https://github.com/user-attachments/assets/e14b42cd-91c0-41b2-9363-70f659a634cb)
 ![image](https://github.com/user-attachments/assets/1cb119d5-af1e-47cf-911d-3d9560993639)
 
